@@ -1,3 +1,5 @@
 By :
-+ Nama : Aliefa Indira
-+ NIM : 201440001
+Nama : Aliefa Indira
+NIM : 201440001
+
+
